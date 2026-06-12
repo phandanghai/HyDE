@@ -1,0 +1,4 @@
+.config/waybar/config.jsonc
+.config/waybar/style.css
+.config/waybar/theme.css
+.config/waybar/user-style.css

@@ -1,0 +1,2 @@
+.config/starship/starship.toml
+.config/starship/powerline.toml
